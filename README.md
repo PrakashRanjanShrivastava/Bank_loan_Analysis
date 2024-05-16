@@ -232,3 +232,11 @@ Bad Loan KPIs:
 
 
 
+
+
+![image](https://github.com/PrakashRanjanShrivastava/Bank_loan_Analysis/assets/116681622/fe1af702-3a80-47dd-9ef2-4fa1812a6e71)
+
+
+
+
+
